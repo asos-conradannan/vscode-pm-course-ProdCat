@@ -1,0 +1,6 @@
+# GitHub Copilot generated content
+*.md linguist-generated=false
+*.md linguist-documentation=false
+
+# Mark as Copilot-assisted
+* copilot-reviewed=true
